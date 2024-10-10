@@ -1,4 +1,4 @@
-# Terraform_Learn# Terraform Learning Repository
+# Terraform Learning Repository
 
 Welcome to my Terraform learning repository! This repo serves as a personal collection of Terraform configurations and scripts that I've created while learning about Infrastructure as Code (IaC) and managing cloud resources.
 
