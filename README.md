@@ -2,15 +2,7 @@
 
 Welcome to my Terraform learning repository! This repo serves as a personal collection of Terraform configurations and scripts that I've created while learning about Infrastructure as Code (IaC) and managing cloud resources.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -54,30 +46,10 @@ Before you begin, ensure you have met the following requirements:
    terraform destroy
    ```
 
-## Usage
 
-Each directory in this repository contains a separate Terraform configuration for different scenarios or cloud providers. Please navigate to the desired directory and follow the steps in the "Getting Started" section.
-
-## Examples
-
-Here are some of the examples included in this repository:
-- **AWS VPC**: A simple configuration for creating a Virtual Private Cloud (VPC) in AWS.
-- **Azure Web App**: A configuration for deploying a web application in Microsoft Azure.
-- **GCP Compute Instance**: A configuration for creating a Compute Engine instance in Google Cloud Platform.
-
-Feel free to explore the individual directories for more details on each example.T
 
 ## Resources
 
 - [Terraform Documentation](https://www.terraform.io/docs/index.html)
 - [Terraform AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
-- [Terraform Azure Provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
-- [Terraform GCP Provider](https://registry.terraform.io/providers/hashicorp/google/latest/docs)
 
-## Contributing
-
-If you would like to contribute to this repository, feel free to create a pull request or open an issue. I welcome any suggestions or improvements!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
